@@ -17,7 +17,7 @@ func main() {
 		fmt.Printf("Retriving event ...")
 		eventCnt++
 		if eventCnt == 3 {
-			fmt.Println("Got %d events\n", eventCnt)
+			fmt.Printf("Got %d events\n", eventCnt)
 		}
 	}
 	fmt.Println("=======================================")

@@ -1,3 +1,3 @@
-module training.go/struct-p2
+module training.go/player
 
 go 1.24.4
